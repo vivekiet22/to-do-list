@@ -1,3 +1,6 @@
+live link of the app:-
+https://to-do-list-indol-seven.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
